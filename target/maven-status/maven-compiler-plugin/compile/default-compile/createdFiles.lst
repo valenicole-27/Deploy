@@ -1,0 +1,3 @@
+com\example\randomsum\RandomsumApplication.class
+com\example\randomsum\controllers\RandomController.class
+com\example\randomsum\ServletInitializer.class
